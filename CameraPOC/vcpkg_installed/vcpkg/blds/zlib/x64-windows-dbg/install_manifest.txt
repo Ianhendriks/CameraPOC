@@ -1,0 +1,2 @@
+C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/lib/zlibd.lib
+C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/bin/zlibd1.dll

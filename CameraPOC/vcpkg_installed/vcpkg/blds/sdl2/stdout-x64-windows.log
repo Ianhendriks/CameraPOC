@@ -1,0 +1,33 @@
+-- Downloading https://github.com/libsdl-org/SDL/archive/release-2.30.3.tar.gz -> libsdl-org-SDL-release-2.30.3.tar.gz...
+-- Extracting source C:/Users/Ian/AppData/Local/vcpkg/downloads/libsdl-org-SDL-release-2.30.3.tar.gz
+-- Applying patch deps.patch
+-- Applying patch alsa-dep-fix.patch
+-- Using source at C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/blds/sdl2/src/ase-2.30.3-180151d870.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+CMake Warning at C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:327 (message):
+  The following variables are not used in CMakeLists.txt:
+
+      CMAKE_DISABLE_FIND_PACKAGE_ALSA
+      CMAKE_REQUIRE_FIND_PACKAGE_ALSA
+
+  Please recheck them and remove the unnecessary options from the
+  `vcpkg_cmake_configure` call.
+
+  If these options should still be passed for whatever reason, please use the
+  `MAYBE_UNUSED_VARIABLES` argument.
+Call Stack (most recent call first):
+  C:/Users/Ian/AppData/Local/vcpkg/registries/git-trees/016040fbf13b72364c405d2dfeb733273efbae75/portfile.cmake:43 (vcpkg_cmake_configure)
+  scripts/ports.cmake:175 (include)
+
+
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/sdl2_x64-windows/lib/pkgconfig/sdl2.pc
+-- Downloading https://mirror.msys2.org/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://repo.msys2.org/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst;https://mirror.selfnet.de/msys2/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst -> msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst...
+-- Downloading https://mirror.msys2.org/msys/x86_64/msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst;https://repo.msys2.org/msys/x86_64/msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/msys/x86_64/msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/msys/x86_64/msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/msys/x86_64/msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst;https://mirror.selfnet.de/msys2/msys/x86_64/msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst -> msys2-msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst...
+-- Using msys root at C:/Users/Ian/AppData/Local/vcpkg/downloads/tools/msys2/d33df895d441a36d
+-- Fixing pkgconfig file: C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/sdl2_x64-windows/debug/lib/pkgconfig/sdl2.pc
+-- Installing: C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/sdl2_x64-windows/share/sdl2/usage
+-- Installing: C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/sdl2_x64-windows/share/sdl2/copyright
+-- Performing post-build validation

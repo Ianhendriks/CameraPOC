@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\Main.cpp(70,30): warning C4552: '!=': result of expression not used
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\Main.cpp(79,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\Main.cpp(79,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CameraPOC.vcxproj -> C:\Users\Ian\source\repos\CameraPOC\CameraPOC\x64\Debug\CameraPOC.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,4 @@
+C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/lib/zlib.lib
+C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/bin/zlib1.dll
+C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/include/zconf.h
+C:/Users/Ian/source/repos/CameraPOC/CameraPOC/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/include/zlib.h

@@ -1,0 +1,5 @@
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\x64\Debug\SDL2d.dll
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\x64\Debug\SDL2_imaged.dll
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\x64\Debug\libpng16d.dll
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\x64\Debug\zlibd1.dll
+C:\Users\Ian\source\repos\CameraPOC\CameraPOC\CameraPOC\x64\Debug\CameraPOC.vcxproj.Up2Date
